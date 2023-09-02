@@ -1,0 +1,9 @@
+:root {
+    --background : #000000;
+    --white: #ffffff;
+    --text-gradient-bg: rgb(153,0,142);
+    --text-gradient-1: linear-gradient(90deg, rgba(153,0,142,1) 0%, rgba(29,9,121,1) 35%, rgba(0,74,255,1) 100%);
+    --btn-bg: #2f80ed;
+    --bg-blob: rgba(143,0,255,0.35);
+    --card-border:#282525;
+}
